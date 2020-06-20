@@ -4,7 +4,6 @@ import com.goapigo.core.annotations.GoApiGo;
 import com.goapigo.core.annotations.ListBy;
 import com.goapigo.core.annotations.TextBy;
 import lombok.Getter;
-import lombok.Setter;
 
 import java.util.List;
 

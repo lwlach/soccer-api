@@ -6,8 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SoccerApiApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(SoccerApiApplication.class, args);
-	}
-
+  public static void main(String[] args) {
+    SpringApplication.run(SoccerApiApplication.class, args);
+  }
 }
